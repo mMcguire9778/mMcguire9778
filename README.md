@@ -1,7 +1,6 @@
 # Miles McGuire
 # about me
-## I am a highschool student with little job expiernce which is working at my neborhood pool.  Hobbies include soccer and hanging out with friends.  Pro nouns are he/him and I am a white male.
-# contact info
+- I am a highschool student
 ## Milesamcguire97@gbstu.org
 
 # profesianl summary
