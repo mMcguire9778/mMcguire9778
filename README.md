@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?mMcguire9778=AceCoder508374)
+![](https://komarev.com/ghpvc/?username=mMcguire9778508374)
 # Miles McGuire
 Hi I am looking for a job that requires no expierence.  I am 16 employed at neiborhood pool and i am currently looking for a second job.  I am a hardworker pretty flexible and pretty much willing to work any job.
 # about me
