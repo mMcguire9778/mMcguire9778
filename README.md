@@ -2,7 +2,7 @@
 Hi I am looking for a job in an entry level position that I need no expiernece for.  I do not care if the job has physical labor or use of intllects it just needs to be entry level.
 # about me
 - I am a highschool student
-- Hobbies include weightlifting, soccer and hanging out with friends and family.
+- Hobbies include weightlifting 🏋️, soccer ⚽ and hanging out with friends and family.
 - I am a kind hardworker and go out of my way to satisfy the customer
 
 # Contact information
