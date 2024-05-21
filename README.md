@@ -12,10 +12,9 @@ Hi I am looking for a job in an entry level position that I need no expiernece f
  * 
 
 # Professional summary
- summary
  I am in honors classes at my highschool and also particpate in NHS.  I have been in a couple leadership positions such as soccer team captain and led projects.  I am great at comprhending information in fields such as Math and Science.  I am also very fit and stay in shape.
- # Technology stack
-I am able to block code and I can do a litttle bit of Java script.  The only code I am capable of reading is blok code.
+ # 🛠 Technology stack
+I am able to block code and I can do a litttle bit of Java script.  The only code I am capable of reading is block code.
 
 	<p align='center'>
 	   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true">
