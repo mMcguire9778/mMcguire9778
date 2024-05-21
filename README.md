@@ -16,17 +16,7 @@ Hi I am looking for a job in an entry level position that I need no expiernece f
  # 🛠 Technology stack
 I am able to block code and I can do a litttle bit of Java script.  The only code I am capable of reading is block code.
 
-	<p align='center'>
-	   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true">
-	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=mMcguire9778&show_icons=true&count_private=true"/>
-	   </a>
-	   <a href="https://github.com/mMcguire9778/github-readme-stats">
-	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mMcguire9778&layout=compact"/>
-	   </a>
-	</p>
-![image](https://github.com/mMcguire9778/mMcguire9778/assets/158605838/67bcee63-6c1d-42ed-a6cc-605819a2a62d)
+# Stats
 
-
-
-
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mMcguire9778&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
